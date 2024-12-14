@@ -1,0 +1,78 @@
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe.config
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.pdb
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.AssemblyReference.cache
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Form1.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Properties.Resources.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.GenerateResource.cache
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.CoreCompileInputs.cache
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.exe
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.pdb
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MainForm.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MenuForm.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.CustomerForm.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddProductForm.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateProduct.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddCustomer.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateCustomer.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.EmployeeForm.resources
+C:\FPT\2024 FALL\Database-SQL\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddEmployee.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe.config
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.pdb
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.AssemblyReference.cache
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddCustomer.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddEmployee.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddProductForm.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.CustomerForm.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.EmployeeForm.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Form1.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MainForm.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MenuForm.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Properties.Resources.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateCustomer.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateProduct.resources
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.GenerateResource.cache
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.CoreCompileInputs.cache
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.exe
+D:\Download\code-database-se07205-main\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.pdb
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe.config
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.pdb
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.AssemblyReference.cache
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddCustomer.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddEmployee.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddProductForm.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.CustomerForm.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.EmployeeForm.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Form1.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MainForm.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MenuForm.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Properties.Resources.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateCustomer.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateProduct.resources
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.GenerateResource.cache
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.CoreCompileInputs.cache
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.exe
+D:\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.pdb
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe.config
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.pdb
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddCustomer.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddEmployee.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddProductForm.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.CustomerForm.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.EmployeeForm.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Form1.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MainForm.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MenuForm.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Properties.Resources.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateCustomer.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateProduct.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.exe
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.pdb
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.History.resources
+C:\Users\Admin\Desktop\code-database-se07205-main (1)\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Addhistory.resources

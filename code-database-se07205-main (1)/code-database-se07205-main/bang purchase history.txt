@@ -1,0 +1,33 @@
+USE [SALE_MANGEMENT_DB]
+GO
+
+/****** Object:  Table [dbo].[PurchaseHistory]    Script Date: 11/21/2024 8:06:29 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[PurchaseHistory](
+	[purchaseID] [int] NOT NULL,
+	[customerCode] [varchar](50) NULL,
+	[productCode] [varchar](50) NULL,
+	[purchaseDate] [date] NULL,
+	[quantity] [int] NULL,
+	[status] [bit] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[purchaseID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[PurchaseHistory]  WITH CHECK ADD FOREIGN KEY([customerCode])
+REFERENCES [dbo].[Customer] ([code])
+GO
+
+ALTER TABLE [dbo].[PurchaseHistory]  WITH CHECK ADD FOREIGN KEY([productCode])
+REFERENCES [dbo].[Product] ([code])
+GO
+
+
